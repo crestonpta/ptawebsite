@@ -6,7 +6,7 @@ image: /img/become-a-member.jpg
 ---
 ## PTA MEMBERSHIP 
 
-We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
+We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you. *
 
 B﻿ecome a PTA member - **[JOIN NOW!](https://www.oregonpta.org/membership)**
 
