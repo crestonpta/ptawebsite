@@ -9,7 +9,7 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ### **President**
 
-**Jenna Charton,** president@crestonschoolpta.org
+**Lauren Shumaker** president@crestonschoolpta.org
 
 ![photo of Jenna Charton](/img/img_5118.jpeg)
 
