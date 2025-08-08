@@ -42,7 +42,7 @@ We are currently looking for volunteers to help with the formation of the follow
 * **Education Funding Reform and Advocacy** **–** Join our community volunteer Tony to support our grassroots efforts to reform the way public education is funded in the state of OR. Work with our local electeds to improve the future state of public schools - let's try to avoid the next funding crisis! To get involved or for more information, email Tony at tonyabra@gmail.com
 * **STEAM/STEAM Night –** For the last several years, the wonderful teachers and staff at Creston have taken on the bulk of planning and organizing STEAM-related activities for Creston School. We're seeking a committee of community members to support our teachers and staff in their STEAM endeavors. Also, help plan and/or support the night of this fun annual event. 
 
-View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email Wendy at volunteercoordinator@crestonschoolpta.org to get involved!
+View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email volunteercoordinator@crestonschoolpta.org to get involved!
 
 ## BACKGROUND CHECK
 
