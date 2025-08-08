@@ -10,7 +10,7 @@ image: /img/volunteer.jpg
 
 ## Volunteer Committees
 
-Creston PTA hosts a variety of fun events and special interest committees but needs your help to keep them going! Whether you have a lot of time or only one hour, your help has a meaningful impact on our community. View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email Wendy at volunteercoordinator@crestonschoolpta.org to get involved!
+Creston PTA hosts a variety of fun events and special interest committees but needs your help to keep them going! Whether you have a lot of time or only one hour, your help has a meaningful impact on our community. View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email volunteercoordinator@crestonschoolpta.org to get involved!
 
 ### Fundraising
 
