@@ -55,15 +55,11 @@ You don’t need to have a PTA membership to be involved! Here are some of the m
 
 ![A laptop, iphone, and calendar on a desk.](/img/pexels-jessica-lewis-🦋-thepaintedsquare-3361483.jpg)
 
-Find out about upcoming community meetings and other PTA events on the [PTA Google Calendar](https://docs.google.com/document/d/1U72VrbXZogQfWjhSpkGIgCbnf2ZjnC2gQO6gT_n0gMg/edit?usp=sharing) or [Konstella Calendar.](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/calendar)
-
-PTA file archives can be viewed in the public Givebacks (formerly known as MemberHub) file folder. You will need a Creston Givebacks account to view this content.
-
-[Community Meeting Minutes and PTA Newsletter Archive](https://creston.memberhub.com/files/2023-2024%20General%20Meeting%20Docs)
+Find out about upcoming community meetings and other PTA events on the [Konstella Calendar](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/calendar)
 
 ## KONSTELLA
 
-Starting in the 2024-25 school year, the PTA is using the Konstella app (transitioning away from Givebacks) as our main platform for communicating with families, volunteering, and fundraising. If you have questions about your Konstella account, please reach out to Wendy Haile at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
+The PTA uses Konstella as our main platform for communicating with families, volunteering, and fundraising. If you have questions about your Konstella account, please reach out to Steph Jarem at volunteercoordinator@​crestonschoolpta.org.
 
 The Konstella app can be used to:
 
