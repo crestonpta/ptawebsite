@@ -39,7 +39,7 @@ Mary Beth is in her second year as a Creston parent. She and her family enjoy ca
 
 **Andrew Lightman** - treasurer@crestonschoolpta.org  
 
-![]()
+![](/img/img_9311.jpg)
 
 B﻿io coming
 
@@ -55,7 +55,7 @@ This is my fourth year on the Creston PTA Board and I have a fifth grader. I wor
 
 Steph Jarem - volunteercoordinator@crestonschoolpta.org  
 
-![]()
+![](/img/img_9314.jpg)
 
 B﻿io coming 
 
