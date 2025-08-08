@@ -7,37 +7,41 @@ image: /img/community-meetings2.jpg
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-### **President**
+### **Co-Presidents**
 
-**Lauren Shumaker** president@crestonschoolpta.org 
+**Lauren Shumaker & Jordan Bagnall** - [president@crestonschoolpta.org](president@crestonschoolpta.org)
 
-![photo of Jenna Charton](/img/img_9312.jpg)
+![photo of Lauren Shumaker](/img/img_9312.jpg "Lauren Shumaker")
 
 Bio coming 
 
 ### **Vice President**
 
-**Jennica Stephenson,** vicepresident@crestonschoolpta.org
+**Sarah Horn** - vicepresident@crestonschoolpta.org 
 
-![Photo of Jennica Stephenson.](/img/img_5123.jpeg)
+![]()
 
-This is my sixth year as a Creston parent and my second year on the PTA Board. I joined as Vice President for the ‘23-’24 school year because I wanted to be involved with all the good work the PTA does for our students. I have a fourth grader at Creston this year and a fifth grader at another school. In my free time I love to run, oil paint, and eat tacos. I’m so proud to be a part of this school community!
+Bio coming 
 
 ### **Secretary**
 
-Amber Porter, secretary@crestonschoolpta.org
+**Mary Beth Muscarella** - secretary@crestonschoolpta.org  
 
-![Photo of Amber Porter.](/img/img_5116.jpeg)
+![Photo of Mary Beth Muscarella](/img/img_0730.jpg)
 
-My name is Amber Porter and I am the PTA secretary at Creston. I have a 5th grader and an 8th grader at Kellogg Middle School. I became the PTA secretary because there was a need and I was not as involved when my kids were younger.  My favorite part of the PTA is getting to know all the parents and helping to enrich the school experience for the kids at Creston. In my free time, I enjoy riding my bike, snowboarding, and seeing live music. My goal for the year is to help increase parent involvement.
+<!--StartFragment-->
+
+Mary Beth is in her second year as a Creston parent. She and her family enjoy camping in the warmer months and building couch cushion forts in the colder months. By day, she works fulltime in development/fundraising and at night she’s trying out new recipes and watching reruns of West Wing.
+
+<!--EndFragment-->
 
 ### **Treasurer**
 
-Tanya Gilbert, treasurer@crestonschoolpta.org
+**Andrew Lightman** - treasurer@crestonschoolpta.org  
 
-![Photo of Tanya Gilbert.](/img/img_5121.jpeg)
+![]()
 
-This is my fourth year on the PTA Board in the Treasurer role. I have a second grader and a sixth grader at Hosford Middle School. I love spending time in nature with my family and exploring new places. I was inspired to get involved with PTA because I saw how much they did for the school to support teachers and our children's learning.
+B﻿io coming
 
 ### **Fundraising Chair**
 
@@ -45,7 +49,7 @@ Laura Bartroff, fundraising@crestonschoolpta.org
 
 ![Photo of Laura Bartroff.](/img/img_5127.jpeg)
 
-This is my third year on the Creston PTA Board and I have a fourth grader. I work at the Portland Art Museum during the day and enjoy playing ultimate frisbee, camping, reading, riding my bike, and coffee. I enjoy being involved with the PTA because I like to be informed about our school, the district, and doing what I can to make our school the best it can be. I’ve also met some wonderful people who are working so hard for our kids!
+This is my fourth year on the Creston PTA Board and I have a fifth grader. I work at the Portland Art Museum during the day and enjoy playing ultimate frisbee, camping, reading, riding my bike, and coffee. I enjoy being involved with the PTA because I like to be informed about our school, the district, and doing what I can to make our school the best it can be. I’ve also met some wonderful people who are working so hard for our kids! 
 
 ### **Volunteer & Membership Chair**
 
