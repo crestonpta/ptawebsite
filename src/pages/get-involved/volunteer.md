@@ -32,7 +32,7 @@ Creston PTA hosts a variety of fun events and special interest committees but ne
 * **Garden and Sustainability –** Our gardening committee is co-led by two Creston community members, Chelsea and Michael, under close guidance from Mr. Max of GROW Portland. Also, this committee organizes garden work parties, summer watering, and other sustainability efforts at Creston. Contact sustainability@crestonschoolpta.org to get involved.
 * **Health and Safety –** Work with the board and school leadership on issues related to the health and safety of our kids. 
 
-### \*NEW\* FOR 2024-25
+### VOLUNTEER NEEDS
 
 We are currently looking for volunteers to help with the formation of the following new committees. View and join our current [volunteer committees](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/committees) on the Konstella app or email Wendy at volunteercoordinator@crestonschoolpta.org to get involved!
 
