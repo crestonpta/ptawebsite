@@ -17,11 +17,11 @@ An inclusive community where personal excellence and academic growth meet.
 
 ## DAILY SCHEDULE
 
-8:38 AM - Doors Open (Welcome Bell)
+7:52 AM - Doors Open (Welcome Bell) 
 
-8:45 AM - School Starts (Tardy Bell)
+8:00 AM - School Starts (Tardy Bell)
 
-3:00 PM - School Ends (Dismissal Bell)
+2:30 PM - School Ends (Dismissal Bell) 
 
 ## SCHOOL OFFICE
 
@@ -33,9 +33,7 @@ Christine Cruzat
 
 [ccruzat@pps.net](mailto:ccruzat@pps.net)
 
-## Office Hours: 
-
-8:30 AM - 3:30 PM 
+## A﻿ddress
 
 Creston Elementary School
 
