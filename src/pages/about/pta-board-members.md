@@ -13,7 +13,7 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ![photo of Lauren Shumaker](/img/img_9312.jpg "Lauren Shumaker")
 
-Bio coming 
+Bios coming 
 
 ### **Vice President**
 
@@ -53,19 +53,19 @@ This is my fourth year on the Creston PTA Board and I have a fifth grader. I wor
 
 ### **Volunteer & Membership Chair**
 
-Wendy Haile, volunteercoordinator@crestonschoolpta.org
+Steph Jarem - volunteercoordinator@crestonschoolpta.org  
 
-![Photo of Wendy Haile.](/img/img_5126.jpeg)
+![]()
 
-I joined the PTA Board as the Volunteer & Membership Coordinator in 2021. I have a fourth grader and a second grader. I love to travel, listen to music, try new foods, and exercise (hiking, biking, yoga). I got involved with the PTA because I wanted to build community with other families in the neighborhood, use my skills to help with school programs, encourage volunteerism, and learn more about what was happening at the school.
+B﻿io coming 
 
 ### **Health & Safety Chair**
 
-**Josh Roll, healthandsafety@crestonschoolpta.org**
+**Josh Roll** - healthandsafety@crestonschoolpta.org
 
-![Photo of Josh Roll.](/img/img_5128.jpeg)
+![Photo of Josh Roll](/img/img_5128.jpeg)
 
-This is my second year on the PTA Board as the Health & Safety Chair. I have a second grader and a kindergartener. I enjoy gardening and canning, coach baseball and rugby and loved watching the US men and women's rugby teams get after it at the Olympics this summer. There is so much in the world where we are all but powerless to do all that much about but organizing around our public school, a hearth of the larger community, allows for a place where the benefits of direct action can be seen and felt almost immediately. Putting in the time now ensures our kids have the supports they need and can make up for some of the financial resources that are not available.
+This is my third year on the PTA Board as the Health & Safety Chair. I have a  third grader and a first  grader. I enjoy gardening and canning, coach baseball and rugby and loved watching the US men and women's rugby teams get after it at the Olympics this summer. There is so much in the world where we are all but powerless to do all that much about but organizing around our public school, a hearth of the larger community, allows for a place where the benefits of direct action can be seen and felt almost immediately. Putting in the time now ensures our kids have the supports they need and can make up for some of the financial resources that are not available. 
 
 ### **DEI Chair**
 
