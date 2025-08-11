@@ -7,13 +7,21 @@ image: /img/community-meetings2.jpg
 
 Our Board consists of 9 elected members. We welcome feedback about how we can best serve and support the Creston community. Interested in becoming a board member? Contact our current PTA President.
 
-### **Co-Presidents**
+### **Co-President**
 
-**Lauren Shumaker & Jordan Bagnall** - [president@crestonschoolpta.org](president@crestonschoolpta.org)
+**Lauren Shumaker Jordan Bagnall** - [president@crestonschoolpta.org](president@crestonschoolpta.org)
 
 ![photo of Lauren Shumaker](/img/img_9312.jpg "Lauren Shumaker")
 
-Bios coming 
+Bio coming 
+
+### **C﻿o-President**
+
+**Jordan Bagnall** - [president@crestonschoolpta.org](president@crestonschoolpta.org)
+
+![](/img/img_4434.jpeg)
+
+Bio coming
 
 ### **Vice President**
 
