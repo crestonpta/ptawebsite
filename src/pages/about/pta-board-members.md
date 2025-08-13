@@ -21,7 +21,11 @@ Bio coming
 
 ![](/img/img_4434.jpeg)
 
-Bio coming
+<!--StartFragment-->
+
+This is my second year as a Creston parent with a rad first grader. I love spending time with my family crafting, playing board games and snuggling our new dog Plum. I’m an artist and was excited to get to draw the eagles on our spirit wear this year! Creston truly is a special little school and I value contributing to what the PTA adds to the kids’ experiences.
+
+<!--EndFragment-->
 
 ### **Vice President**
 
