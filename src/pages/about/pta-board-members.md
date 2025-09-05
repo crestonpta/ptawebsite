@@ -91,7 +91,7 @@ This is my third year on the PTA Board as the Health & Safety Chair. I have a  t
 
 ### **DEI Chair**
 
-**VACANT,** We're actively recruiting for this role so please join us at any point during the school year. Contact Jenna to get involved: president@crestonschoolpta.org
+**VACANT,** We're actively recruiting for this role so please join us at any point during the school year. Contact president@crestonschoolpta.org with interest.
 
 !["You belong in PTA" graphic.](/img/pta-creates-supports-amplifies-tw.png)
 
