@@ -13,7 +13,9 @@ Our Board consists of 9 elected members. We welcome feedback about how we can be
 
 ![photo of Lauren Shumaker](/img/img_9312.jpg "Lauren Shumaker")
 
-Bio coming 
+This is my second year at Creston with a 1st grader in tow, and I'm humbled to serve on the PTA board.  I'm a local business owner and have lived in the PNW for all my life. I love to garden, run, and spend time with my amazing family and doggo.  Our board is filled with passionate members that value Public Education for all.  We welcome any and all who want to support and volunteer as we know that a strong foundation starts with parental involvement. 
+
+<!--EndFragment--> 
 
 ### **C﻿o-President**
 
@@ -31,7 +33,7 @@ This is my second year as a Creston parent with a rad first grader. I love spend
 
 **Sarah Horn** - vicepresident@crestonschoolpta.org 
 
-![]()
+![](/img/screenshot-2025-01-13-at-9.28.01 pm.png)
 
 Bio coming 
 
@@ -53,7 +55,11 @@ Mary Beth is in her second year as a Creston parent. She and her family enjoy ca
 
 ![](/img/img_9311.jpg)
 
-B﻿io coming
+<!--StartFragment-->
+
+Andrew has 5th and 3rd graders this year at Creston. He enjoys  coaching youth soccer in his free time, taking walks in the Creston neighborhood, and spending time with family. By day, he works full time in E-Commerce.
+
+<!--EndFragment-->
 
 ### **Fundraising Chair**
 
@@ -69,7 +75,11 @@ Steph Jarem - volunteercoordinator@crestonschoolpta.org
 
 ![](/img/img_9314.jpg)
 
-B﻿io coming 
+<!--StartFragment-->
+
+I have two children at Creston (Emmett's in 1st grade and Wyatt's in 3rd grade) and love being part of the community. I joined the PTA to help others find ways to get involved in school activities this year and to strengthen peoples' feelings of connection to our neighborhood school. I'm a former teacher, but for the past decade, I've managed a health policy office at the Oregon Health Authority. During spare time, I coach womens' rugby, love to read, and enjoy watching our kids play sports!
+
+<!--EndFragment-->
 
 ### **Health & Safety Chair**
 
