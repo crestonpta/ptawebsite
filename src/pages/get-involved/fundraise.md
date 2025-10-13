@@ -11,11 +11,7 @@ PTA raises funds for:
 * Classroom supplies
 * Other initiatives that support student success
 
-## OUR GOAL FOR 2024-2025: $25,000
-
-Our goal for 2024-25 is to raise **$25,000** and you can help us get there! No matter how big or small, there’s a way for everyone to contribute and we’re grateful to all of you!
-
-## WAYS YOU CAN HELP
+## W﻿ays you can help
 
 * ﻿Make a donation (for [Konstella users](https://www.konstella.com/app/school/669afb141b5ceab26a5c9b2f/donations/66d8a2221b5ce153b7dc6ee4) and [Non-Konstella Users](https://www.konstella.com/open/donations/66d8a2221b5ce153b7dc6ee8))
 * Participate in fundraising events (Run for the Eagles, wreath and plant sales)
