@@ -61,7 +61,7 @@ Find out about upcoming fundraising events on the [PTA Google Calendar.](https:/
 
 Put those cans and bottle refunds to good use and directly support our school. This program is so easy and provides steady support all year long. **Here’s how to get started:** 
 
-* Get a special blue bag at any PTA event or the Wednesday Urban Gleaners (or email [secretary@crestonschoolpta.org](mailto:secretary@crestonschoolpta.org) and we'll get you bags). These bags have our unique QR code sticker already on them.
+* Get a special blue bag at any PTA event, the Wednesday Urban Gleaners, or the front office. These bags have our unique QR code sticker already on them.  
 * Fill your bag(s) with qualifying plastic, aluminum and glass bottles (no need to sort).
 * Bring full blue bags to any BottleDrop center (closest locations to Creston are Safeway on Powell, Trader Joe’s on Chavez, Hawthorne Fred Meyer, and Woodstock New Seasons). These locations have an automatic system where you scan the QR code on the bag, then a door pops open, and you put your bags in. Easy!
 
