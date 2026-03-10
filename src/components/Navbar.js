@@ -54,6 +54,12 @@ const Navbar = () => {
                 Become a Member
               </Link>
             </div>
+
+            <div className="nav__sub-link">
+              <Link className="" to="/get-involved/konstella">
+                Konstella
+              </Link>
+            </div>
           </div>
         </div>
 
@@ -143,11 +149,7 @@ const Navbar = () => {
                 Creston School
               </Link>
             </div>
-            <div className="nav__sub-link">
-              <Link className="nav__sub-link" to="/contact">
-                Contact Us
-              </Link>
-            </div>
+           
           </div>
         </div>
 

@@ -48,6 +48,11 @@ const Footer = () => {
                   PTA Membership
                 </Link>
               </li>
+               <li>
+                <Link className="" to="/get-involved/konstella">
+                  Konstella
+                </Link>
+              </li>
               <li>
                 <Link
                   className=""
@@ -127,10 +132,14 @@ const Footer = () => {
                   Creston School
                 </Link>
               </li>
-              <li>
-                <Link className="foot_support_lists_contact" to="/contact">
-                  <h3>Contact Us</h3>
+             <li>
+
+                <p>
+
+                <Link className="foot_support_lists_contact" to="mailto:secretary@crestonschoolpta.org">
+                  secretary@crestonschoolpta.org
                 </Link>
+                </p>
                 <p>
                   Creston Elem. School
                   <br />
@@ -162,7 +171,7 @@ const Footer = () => {
       </div>
 
       <div className="foot__bottom">
-        <div className="foot__container">&#169; 2024 Creston School PTA</div>
+        <div className="foot__container">&#169; 2026 Creston School PTA</div>
       </div>
     </footer>
   );
