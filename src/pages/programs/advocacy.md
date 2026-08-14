@@ -9,11 +9,7 @@ Safe Routes to School is an ongoing committee that takes on pedestrian and bike 
 
 Part of our school catchment area is north of SE Powell Blvd. Many families live close enough to walk or bike but doing so means crossing a high-crash corridor. Along with other schools and organizations we have been making our voices heard and making some progress.
 
-## UPDATE: September 2023
-
-The Creston PTA has been taking part in a Powell Blvd. Safety Accountability Group convened by Oregon Senator Kathleen Taylor along with other schools along Powell Blvd., TriMet, ODOT, PBOT, and other community organizations.
-
-## HIGHLIGHTS
+In 2023, the Creston PTA took part in a Powell Blvd. Safety Accountability Group convened by Oregon Senator Kathleen Taylor along with other schools along Powell Blvd., TriMet, ODOT, PBOT, and other community organizations. 
 
 We now have a 20 mph school speed zone on Powell between SE 43rd and SE 49th Ave. Flashing beacons were installed in August as well (one at Sesame Donuts and the other at the U-haul).
 
@@ -31,7 +27,7 @@ We continue to encourage advocacy to keep our voices heard, and if you’d like 
 
 **Representative Khanh Pham** – Rep.KhanhPham@oregonlegislature.gov
 
-![Illustration of an eagle riding a bicycle.](/img/bikebus-eagle-small.jpg)
+![Illustration of an eagle riding a bicycle.]()
 
 ## BIKE AND WALKING BUS
 
