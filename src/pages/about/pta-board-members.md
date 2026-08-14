@@ -67,7 +67,7 @@ Steph Jarem - volunteercoordinator@crestonschoolpta.org
 
 <!--StartFragment-->
 
-I have two children at Creston (Emmett's in 1st grade and Wyatt's in 3rd grade) and love being part of the community. I joined the PTA to help others find ways to get involved in school activities this year and to strengthen peoples' feelings of connection to our neighborhood school. I'm a former teacher, but for the past decade, I've managed a health policy office at the Oregon Health Authority. During spare time, I coach womens' rugby, love to read, and enjoy watching our kids play sports!
+I have two children at Creston (Emmett's in 2nd grade and Wyatt's in 4tt grade) and love being part of the community. I joined the PTA to help others find ways to get involved in school activities this year and to strengthen peoples' feelings of connection to our neighborhood school. I'm a former teacher, but for the past decade, I've managed a health policy office at the Oregon Health Authority. During spare time, I coach womens' rugby, love to read, and enjoy watching our kids play sports!
 
 <!--EndFragment-->
 
