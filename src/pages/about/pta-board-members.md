@@ -25,7 +25,7 @@ This is my third year at Creston with a 2nd grader in tow, and I'm humbled to se
 
 ![](/img/screenshot-2025-01-13-at-9.28.01 pm.png)
 
-Bio coming 
+Sarah is in her third year as a Creston parent and second year as PTA Board Vice President. When not volunteering on campus, Sarah can be found on a mountain bike trail, at a rally advocating for more education funding, enjoying a concert, and occasionally, catching a wave on her surf board. 
 
 ### **Secretary**
 
