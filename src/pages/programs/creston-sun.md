@@ -32,4 +32,4 @@ Creston SUN enrichment classes are FREE and available to all students. Your dona
 
 [Spanish/Vietnamese/Chinese: Creston SUN Registration Packet.pdf](https://forms.gle/eRmGehXga7FwHwCq5)
 
-Please fill out the above form and send to blynch@impactnw.org or print and bring to the school office to register for the upcoming SUN term.
+Please fill out the above form and send to [blynch@impactnw.org](blynch@impactnw.org) or print and bring to the school office to register for the upcoming SUN term.
