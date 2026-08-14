@@ -43,8 +43,8 @@ Portland, OR 97206
 
 ## MEET OUR PRINCIPAL
 
-Alaina Langdahl
+Karl Logan
 
-![Portrait of Principal Alaina Langdahl.](/img/meet-our-principal.png)
+![Portrait of Principal Karl Logan](/img/karl-logan.jfif)
 
 For more information about Creston School visit the [PPS District Website.](https://www.pps.net/creston)
