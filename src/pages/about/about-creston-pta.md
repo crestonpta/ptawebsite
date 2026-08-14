@@ -35,7 +35,7 @@ B﻿ecome a PTA member for [Konstella Users](https://www.konstella.com/app/schoo
 
 ## PTA BOARD MEMBERS
 
-Our PTA board consists of 9 elected members. Learn more about our [PTA Board Members](https://crestonschoolpta.org/about/PTA-board-members).
+Our PTA board consists of elected members. Learn more about our [PTA Board Members](https://crestonschoolpta.org/about/PTA-board-members).
 
 Interested in becoming a board member? Contact our current PTA President.
 
@@ -59,7 +59,7 @@ Find out about upcoming community meetings and other PTA events on the [Konstell
 
 ## KONSTELLA
 
-The PTA uses Konstella as our main platform for communicating with families, volunteering, and fundraising. If you have questions about your Konstella account, please reach out to Steph Jarem at volunteercoordinator@​crestonschoolpta.org.
+The PTA uses Konstella as our main platform for communicating with families, volunteering, and fundraising. If you have questions about your Konstella account, please reach out to Mary Beth Muscarella at [secretary@​crestonschoolpta.org](secretary@crestonschoolpta.org).
 
 The Konstella app can be used to:
 
@@ -69,7 +69,7 @@ The Konstella app can be used to:
 * Purchase items during fundraisers and shop Creston merchandise
 * View past and current PTA monthly newsletters and calendar 
 
-If you have questions about your Konstella account, please reach out to Mary Beth Muscarella at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
+If you have questions about your Konstella account, please reach out to Mary Beth Muscarella at secretary[@​crestonschoolpta.org](mailto:secretary@crestonschoolpta.org).
 
 ## Follow us
 
