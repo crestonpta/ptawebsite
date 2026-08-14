@@ -27,7 +27,7 @@ Creston PTA is committed to engaging parents in meaningful ways, so that familie
 
 ## MEMBERSHIP 
 
-We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $10 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
+We invite you to join Creston PTA! Members aren’t obligated to attend meetings or volunteer. Membership dues are $14 per year and give you a vote (and voice) on how we use PTA funds. Please don't hesitate to reach out here for scholarship if member dues are cost prohibitive for you.
 
 Learn more about [PTA membership.](/get-involved/become-a-member)
 
@@ -69,7 +69,7 @@ The Konstella app can be used to:
 * Purchase items during fundraisers and shop Creston merchandise
 * View past and current PTA monthly newsletters and calendar 
 
-If you have questions about your Konstella account, please reach out to Wendy Haile at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
+If you have questions about your Konstella account, please reach out to Mary Beth Muscarella at [volunteercoordinator@​crestonschoolpta.org](mailto:volunteercoordinator@crestonschoolpta.org).
 
 ## Follow us
 
