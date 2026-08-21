@@ -1,7 +1,7 @@
 ---
 heading: My Heading For LIbrary
 templateKey: generic-page
-title: After School Care
+title: After School Care Program
 image: /img/after-school-care.jpg
 ---
 ## NEW PROGRAMS FOR '26-27 SCHOOL YEAR
