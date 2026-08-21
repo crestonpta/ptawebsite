@@ -4,17 +4,7 @@ templateKey: generic-page
 title: After School Care
 image: /img/after-school-care.jpg
 ---
-## CHAMPIONS
-
-Champions partners with principals, teachers, and parents to create more than 600 before- and after-school and year-round learning environments that spark wonder in children. Our K-6 curriculum is based on the latest educational research. It uses choice and play based activities to focus on building the three critical abilities that have the most impact on a child’s future success:
-
-* Social-emotional skills
-* Executive-function skills
-* Inquiry-based learning
-
-Learn more at the [Champions website.](https://www.discoverchampions.com/our-locations/portland/or/001363)
-
-## NEW FOR '26-27 SCHOOL YEAR - AFTER SCHOOL ENRICHMENT PROGRAMS
+## NEW PROGRAMS FOR '26-27 SCHOOL YEAR
 
 Creston is proud to offer expanded after-school enrichment opportunities for our students this year. With a variety of programs available throughout the week, there’s something for every interest. Scholarships are available through most program providers and the Creston PTA. For more information, please contact [vicepresident@crestonschoolpta.org](mailto:vicepresident@crestonschoolpta.org). Click on the links below to learn more and register.
 
@@ -39,6 +29,16 @@ Creston is proud to offer expanded after-school enrichment opportunities for our
 
 * [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades K-1
 * [Lego STEM](https://play-well-registration.com/registration/new/119007) — Grades 2–5
+
+## CHAMPIONS
+
+Champions partners with principals, teachers, and parents to create more than 600 before- and after-school and year-round learning environments that spark wonder in children. Our K-6 curriculum is based on the latest educational research. It uses choice and play based activities to focus on building the three critical abilities that have the most impact on a child’s future success:
+
+* Social-emotional skills
+* Executive-function skills
+* Inquiry-based learning
+
+Learn more at the [Champions website.](https://www.discoverchampions.com/our-locations/portland/or/001363)
 
 ## CRESTON SUN AFTER SCHOOL ENRICHMENT CLASSES
 
