@@ -6,30 +6,31 @@ image: /img/after-school-care.jpg
 ---
 ## NEW FOR '26-27 SCHOOL YEAR - AFTER SCHOOL ENRICHMENT PROGRAMS
 
-**Registration and scholarship details coming on 8/24. Most programs will start mid September.**
+Creston is proud to offer expanded after-school enrichment opportunities for our students this year! With a variety of programs available throughout the week, there’s something for every interest. Scholarships are available through most program providers and the Creston PTA. For more information, please contact [vicepresident@crestonschoolpta.org](mailto:vicepresident@crestonschoolpta.org). Click on the links below to learn more and register.
 
 **Monday**
 
-* Mini Makers — Grades 3–5
+* [Mini Makers](http://pdxminimakers.com/creston) — Grades 3–5
 
 **Tuesday**
 
-* Adventures in Spanish — Grades 2-3
-* Skate Like a Girl — All grades
+* [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades 2-3
 
 **Wednesday**
 
-* Funky Divas and Dudes — K-3
-* Rose City Chess — Grades 2–5
+* [Funky Divas and Dudes](https://www.funkydivasanddudes.com/after-school) — K-3
+* [Rose City Chess](https://www.rosecitychess.com/shop/p/clubs) — Grades 2–5
 
 **Thursday**
 
-* Theater with New Moon — Grades 3–5
+* [Theater with New Moon](https://www.6crickets.com/providerDirectory/US/OR/Portland/New-Moon-Productions-6271faadeedd7626/programs/2xmz-nbq6-czr3/Creston-Elem.----ACTING-ADVENTURES!-FUN-WITH-THEATER?refer=&provider=2919&share=&from=Michael%2BWehrli&utm_medium=copylink&utm_source=6cricketsuser&utm_campaign=New+Moon+Productions-Creston+Elem.++-+ACTING+ADVENTURES%21+FUN+WITH+THEATER) — Grades 3–5
 
 **Friday**
 
-* Adventures in Spanish — Grades K-1
-* Lego STEM — Grades 2–5
+* [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades K-1
+* [Lego STEM](https://play-well-registration.com/registration/new/119007) — Grades 2–5
+
+
 
 ## CHAMPIONS
 
