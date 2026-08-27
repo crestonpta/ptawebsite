@@ -57,7 +57,7 @@ Adrienne Daniels, fundraising@crestonschoolpta.org
 
 ![Photo of Adrienne Daniels]()
 
-Bio coming.
+This is my second year with the Creston PTA and first time as a PTA board member! My daughter is a first grader at Creston who loves making up songs, reading, and playing outside in the garden. Our family enjoys walking to Creston each morning with the North of Powell Walk and Bike Bus, accompanied by our loyal dog Squid. When I'm not working or helping out with the PTA, you can find me playing soccer or biking to the farmer's market. I joined the PTA to help make sure that families know how wonderful Creston is and to help shape the future of our local neighborhood school.
 
 ### **Volunteer & Membership Chair**
 
