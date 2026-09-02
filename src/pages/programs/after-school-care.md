@@ -10,15 +10,15 @@ Creston is proud to offer expanded after-school enrichment opportunities for our
 
 **Monday**
 
-* [Mini Makers](http://pdxminimakers.com/creston) — Grades 3–5
+* 3D design and printing with [Mini Makers](http://pdxminimakers.com/creston) — Grades 3–5
 
 **Tuesday**
 
-* [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades 2-3
+* TBD - coming soon!
 
 **Wednesday**
 
-* [Funky Divas and Dudes](https://www.funkydivasanddudes.com/after-school) — K-3
+* Hip Hop Dance with [Funky Divas and Dudes](https://www.funkydivasanddudes.com/after-school) — K-3
 * [Rose City Chess](https://www.rosecitychess.com/shop/p/clubs) — Grades 2–5
 
 **Thursday**
@@ -27,7 +27,7 @@ Creston is proud to offer expanded after-school enrichment opportunities for our
 
 **Friday**
 
-* [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades K-1
+* [Adventures in Spanish](https://www.adventuresinspanish.org/afterschool-spanish-classes) — Grades K-3
 * [Lego STEM](https://play-well-registration.com/registration/new/119007) — Grades 2–5
 
 ## CHAMPIONS
