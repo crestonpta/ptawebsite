@@ -14,7 +14,7 @@ Creston is proud to offer expanded after-school enrichment opportunities for our
 
 **Tuesday**
 
-* TBD - coming soon!
+* Skateboarding with [Like a Girl](https://docs.google.com/forms/d/1nMy9Zdfl91Z62tsEsWHM1JSjpG-QtXkkqgqBfJVvvgY/edit) - Grades K-5
 
 **Wednesday**
 
