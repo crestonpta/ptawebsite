@@ -18,4 +18,4 @@ B﻿ecome a PTA member - **[JOIN NOW!](https://www.konstella.com/open/sales/6a8f
 
 Joining Creston PTA means you are also joining Oregon PTA and National PTA. Member dues support advocacy efforts at the local, state and national levels, impacting decisions affecting your child's health, safety and quality of education. 
 
-![Pie graph showing that Oregon PTA receives $7.27, National PTA receives $2.25, Creston PTA receives $.50.](/img/meta-chart.jpeg)
+![]()
