@@ -6,7 +6,9 @@ image: /img/after-school-care.jpg
 ---
 ## NEW PROGRAMS FOR '26-27 SCHOOL YEAR
 
-Creston is proud to offer expanded after-school enrichment opportunities for our students this year. With a variety of programs available throughout the week, there’s something for every interest. Scholarships are available through most program providers and the Creston PTA. For more information, please contact [vicepresident@crestonschoolpta.org](mailto:vicepresident@crestonschoolpta.org). Click on the links below to learn more and register.
+Creston is proud to offer expanded after-school enrichment opportunities for our students this year. With a variety of programs available throughout the week, there’s something for every interest. Scholarships are available through most program providers and the Creston PTA via Mutal aide. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLScS-bjo58hgz3_kJ52mkNkTG7GWkn4Xp346QrS3tmuTzxlcww/viewform) to register for a scholarship.  Questions about about programs? Contact [vicepresident@crestonschoolpta.org](mailto:vicepresident@crestonschoolpta.org). \
+\
+**Click on the links below to learn more and register.**
 
 **Monday**
 
